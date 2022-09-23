@@ -1,0 +1,4 @@
+/home/z/Desktop/git/Vision/Vision-Video/cmake-build-debug/CMakeFiles/MyLibrary.dir
+/home/z/Desktop/git/Vision/Vision-Video/cmake-build-debug/CMakeFiles/ImgTest.dir
+/home/z/Desktop/git/Vision/Vision-Video/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/z/Desktop/git/Vision/Vision-Video/cmake-build-debug/CMakeFiles/rebuild_cache.dir

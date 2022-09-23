@@ -1,0 +1,2 @@
+vision_markers
+-DCATKIN_DEVEL_PREFIX=/home/z/vision_ws/devel -DCMAKE_INSTALL_PREFIX=/home/z/vision_ws/install -G Unix Makefiles
